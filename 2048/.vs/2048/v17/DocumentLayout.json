@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Grille.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:Grille.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNumerote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:BlocNumerote.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNul.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:BlocNul.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNul.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:BlocNul.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNumerote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:BlocNumerote.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Bloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:Bloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Grille.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:Grille.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Bloc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:Bloc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1BCCA26-BDC9-4DD0-9068-985DAEC9E3D0}|2048.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bloc.h",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Bloc.h",
+              "RelativeDocumentMoniker": "Bloc.h",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Bloc.h",
+              "RelativeToolTip": "Bloc.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-06T15:34:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bloc.cpp",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Bloc.cpp",
+              "RelativeDocumentMoniker": "Bloc.cpp",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Bloc.cpp",
+              "RelativeToolTip": "Bloc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T07:17:33.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlocNul.h",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNul.h",
+              "RelativeDocumentMoniker": "BlocNul.h",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNul.h",
+              "RelativeToolTip": "BlocNul.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T07:17:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlocNul.cpp",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNul.cpp",
+              "RelativeDocumentMoniker": "BlocNul.cpp",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNul.cpp",
+              "RelativeToolTip": "BlocNul.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T07:26:28.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlocNumerote.h",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNumerote.h",
+              "RelativeDocumentMoniker": "BlocNumerote.h",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNumerote.h",
+              "RelativeToolTip": "BlocNumerote.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T07:33:07.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlocNumerote.cpp",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNumerote.cpp",
+              "RelativeDocumentMoniker": "BlocNumerote.cpp",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\BlocNumerote.cpp",
+              "RelativeToolTip": "BlocNumerote.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T07:33:18.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grille.h",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Grille.h",
+              "RelativeDocumentMoniker": "Grille.h",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Grille.h",
+              "RelativeToolTip": "Grille.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvyUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-08T07:54:00.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grille.cpp",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Grille.cpp",
+              "RelativeDocumentMoniker": "Grille.cpp",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\Grille.cpp",
+              "RelativeToolTip": "Grille.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-08T08:00:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\natha\\Documents\\Git\\projet-2048\\2048\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-06T15:15:08.49Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
