@@ -19,24 +19,7 @@
   <property name="windowTitle">
    <string>2048</string>
   </property>
-  <widget class="QWidget" name="centralwidget">
-   <widget class="QFrame" name="Grille">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>25</y>
-      <width>550</width>
-      <height>550</height>
-     </rect>
-    </property>
-    <property name="frameShape">
-     <enum>QFrame::Shape::StyledPanel</enum>
-    </property>
-    <property name="frameShadow">
-     <enum>QFrame::Shadow::Raised</enum>
-    </property>
-   </widget>
-  </widget>
+  <widget class="QWidget" name="centralwidget"/>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
     <rect>

@@ -3,8 +3,10 @@
 
 
 
+#include <QPainter>
 #include <iostream>
 #include <string>
+#include "grille.h"
 
 using namespace std;
 
@@ -13,19 +15,21 @@ using namespace std;
 // Classe abstraite de base permettant de modéliser les blocs de la grille
 class Bloc
 {
-    // Attributs protégés
+// Attributs protégés
 protected :
-    string m_couleur; /* Couleur du bloc (dépend de sa valeur) */
+    QColor m_couleur; /* Couleur du bloc (dépend de sa valeur) */
     int m_type; /* Utilisé pour la hiérarchie de classe : permet d'identifier à partir de quelle classe dérivée l'objet à été instancié.
                    On attribut le type 0 aux objets instanciés à partir de cette classe */
+    static int s_epCrayon; /* Épaisseur en pixel du crayon utilisé pour tracer les blocs */
+    static int s_tailleBloc; /* Taille des blocs en pixel (égale à la hauteur et la largeur) */
 
-    // Méthodes publiques
+// Méthodes publiques
 public :
     Bloc(); /* Constructeur par défaut */
-    string get_couleur(); /* Renvoie la couleur du bloc */
-    virtual void afficher() = 0; /* Affiche le bloc à l'écran. Méthode abstraite car les différentes classes dérivées n'auront pas
-                                    la même implémentation de cette méthode */
-
+    QColor get_couleur(); /* Renvoie la couleur du bloc */
+    virtual void dessiner(QPainter *p, int x, int y) = 0; /* Dessine le bloc dans la grille.
+                            Méthode abstraite car les différentes classes dérivées n'auront pas la même implémentation de cette méthode.
+                            Les paramètres x (abscicce) et y (ordonnée) correspondent au coin en haut à gauche du bloc */
 };
 
 

@@ -8,14 +8,13 @@
 
 
 // Classe héritée de la classe de base bloc.
-// Cette classe permet de modéliser les blocs vides de la grille qui correspondent aux cases vides
+// Cette classe permet de modéliser les blocs nuls de la grille qui correspondent aux cases vides
 class BlocNul : public Bloc
 {
-    // Méthodes publiques
+// Méthodes publiques
 public :
     BlocNul(); /* Constructeur par défaut : on attribue par défaut le type 1 aux blocs nuls et la couleur grise */
-    void afficher(); /* Affiche le bloc nul à l'écran */
-
+    void dessiner(QPainter *p, int x, int y); /* Dessine le bloc nul dans la grille */
 };
 
 

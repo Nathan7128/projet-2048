@@ -11,7 +11,6 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
-#include <QtWidgets/QFrame>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QStatusBar>
@@ -23,7 +22,6 @@ class Ui_MainWindow
 {
 public:
     QWidget *centralwidget;
-    QFrame *Grille;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -35,11 +33,6 @@ public:
         MainWindow->setMaximumSize(QSize(1920, 1080));
         centralwidget = new QWidget(MainWindow);
         centralwidget->setObjectName("centralwidget");
-        Grille = new QFrame(centralwidget);
-        Grille->setObjectName("Grille");
-        Grille->setGeometry(QRect(0, 25, 550, 550));
-        Grille->setFrameShape(QFrame::Shape::StyledPanel);
-        Grille->setFrameShadow(QFrame::Shadow::Raised);
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
